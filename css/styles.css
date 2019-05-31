@@ -2,8 +2,7 @@ img {
   float: left;
   width: 250px;
   border: 2px solid black;
-  padding: 5px;
-  margin: 10px;
+  margin-right: 40px;
 }
 .sidebar {
   float: right;
