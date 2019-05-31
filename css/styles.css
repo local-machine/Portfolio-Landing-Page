@@ -15,9 +15,11 @@ img {
 .key {
   font-weight: bold;
 }
-.key a {
-  font-weight: normal;
-}
+
 body {
   font-family: monospace;
+  background-color: #ffffe6;
+}
+.bold {
+  font-weight: bolder;
 }
