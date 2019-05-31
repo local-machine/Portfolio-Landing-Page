@@ -4,6 +4,17 @@ img {
   border: 2px solid black;
   margin-right: 20px;
 }
+
+body {
+  font-family: monospace;
+  background-color: #ffffe6;
+  font-stretch: normal;
+}
+
+body h3 {
+  text-decoration-line: underline;
+}
+
 .sidebar {
   float: right;
   width: 30%;
@@ -12,18 +23,11 @@ img {
   padding: 5px;
   margin: 5px;
 }
+
 .key {
   font-weight: bold;
 }
 
-body {
-  font-family: monospace;
-  background-color: #ffffe6;
-  font-stretch: normal;
-}
-body h3 {
-  text-decoration-line: underline;
-}
 .bold {
   font-weight: bolder;
 }
